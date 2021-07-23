@@ -10,7 +10,7 @@ An Multi purpose Bot Which Can :-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SeriesZone101/TG-Rename-SZ-ff)
 
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/DeepakV111) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/movieszzzone) 
+Also Support Our Channel [Click Here](https://telegram.dog/movieszzzone) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
