@@ -107,7 +107,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/DeepakV111'),
-                    InlineKeyboardButton('Source', url='https://t.mr/sourcecodeveno')
+                    InlineKeyboardButton('Source', url='https://t.me/sourcecodeveno')
                 ]
             ]
         ),
